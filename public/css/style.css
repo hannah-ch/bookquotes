@@ -131,6 +131,13 @@ body{
         outline: none;
     }
 
+    .frame textarea.book_contents{
+        width:100%;
+        min-height:300px;
+        font-family: inherit;
+        font-size:1rem;
+    }
+
 
 
     @media (min-width: 320px) and (max-width: 767px) {
@@ -169,3 +176,5 @@ body{
     
       
     }
+
+    
